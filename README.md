@@ -24,7 +24,7 @@ This project aims to revolutionize medical imaging analysis by integrating artif
 
 ## Installation  
 
-### Backend (Python Server)  
+### Backend  
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/username/AI-Powered-MRI-Viewer.git  
@@ -41,7 +41,7 @@ This project aims to revolutionize medical imaging analysis by integrating artif
    python app.py  
    ```  
 
-### Frontend (React Application)  
+### Frontend
 1. Navigate to the frontend directory:  
    ```bash  
    cd ../frontend  
