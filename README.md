@@ -1,10 +1,7 @@
+
 # AI-Powered MRI Viewer  
 
 AI-Powered MRI Viewer is an artificial intelligence-driven tool designed to provide real-time analysis of MRI scans, offering advanced visual and technical support for medical diagnostics.  
-
-
-![mri-viewer](https://github.com/albertovalverde/AI-Powered-MRI-Viewer/blob/main/mri-viewer.png)
-
 
 ## Key Features  
 
@@ -26,42 +23,36 @@ This project aims to revolutionize medical imaging analysis by integrating artif
 
 ### Backend (Python Server)  
 1. Clone the repository:  
-   
-bash  
+   ```bash  
    git clone https://github.com/username/AI-Powered-MRI-Viewer.git  
-   cd AI-Powered-MRI-Viewer/backend
-  
+   cd AI-Powered-MRI-Viewer/backend  
+   ```  
 
 2. Install the required dependencies:  
-   
-bash  
-   pip install -r requirements.txt
-  
+   ```bash  
+   pip install -r requirements.txt  
+   ```  
 
 3. Run the server:  
-   
-bash  
-   python app.py
-  
+   ```bash  
+   python app.py  
+   ```  
 
 ### Frontend (React Application)  
 1. Navigate to the frontend directory:  
-   
-bash  
-   cd ../frontend
-  
+   ```bash  
+   cd ../frontend  
+   ```  
 
 2. Install dependencies:  
-   
-bash  
-   yarn install
-  
+   ```bash  
+   yarn install  
+   ```  
 
 3. Run the development server:  
-   
-bash  
-   yarn dev
-  
+   ```bash  
+   yarn dev  
+   ```  
 
 ## Contributions  
 
@@ -69,4 +60,11 @@ Contributions are welcome! If you have ideas or improvements, feel free to open 
 
 ## License  
 
-This software is proprietary and governed by the [EULA](./EULA.txt). Please review it before using the software.
+This software is proprietary and governed by the [EULA](./EULA.txt). Please review it before using the software.  
+
+---  
+
+**Contact Information**  
+For licensing inquiries or questions, contact:  
+Antonio Alberto Valverde Escribano  
+Email: alberto.valverde.escribano@gmail.com  
