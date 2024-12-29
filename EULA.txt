@@ -1,0 +1,68 @@
+
+## **End-User License Agreement (EULA)**  
+
+### **1. Agreement Overview**  
+This End-User License Agreement ("Agreement") is a legal agreement between you ("User") and **Antonio Alberto Valverde Escribano** ("Licensor") governing the use of the software **AI-Powered MRI Viewer** ("Software"). By installing, accessing, or using this Software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.  
+
+---
+
+### **2. License Grant**  
+Licensor grants User a non-exclusive, non-transferable, revocable license to use the Software solely for personal or internal business purposes, subject to the following conditions:  
+- The Software may not be modified, distributed, or resold.  
+- Reverse engineering, decompiling, or disassembling the Software is strictly prohibited.  
+- The Software may only be used in accordance with applicable laws and regulations.  
+
+---
+
+### **3. Restrictions**  
+User agrees not to:  
+- Share or distribute the Software to third parties without prior written consent from Licensor.  
+- Use the Software to develop competing products or services.  
+- Remove or obscure any copyright or proprietary notices included in the Software.  
+
+---
+
+### **4. Ownership**  
+Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights. This Agreement does not grant User any ownership rights in the Software.  
+
+---
+
+### **5. Support and Updates**  
+Licensor may, at its discretion, provide updates, patches, or bug fixes for the Software. Support for the Software is not guaranteed unless explicitly stated in a separate agreement.  
+
+---
+
+### **6. Warranty Disclaimer**  
+The Software is provided "as is" without any warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.  
+
+---
+
+### **7. Limitation of Liability**  
+To the maximum extent permitted by law, Licensor shall not be liable for any damages, including but not limited to direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Software.  
+
+---
+
+### **8. Termination**  
+This Agreement is effective until terminated. Licensor may terminate this Agreement at any time if User breaches any term of this Agreement. Upon termination, User must immediately stop using the Software and delete all copies in their possession.  
+
+---
+
+### **9. Governing Law**  
+This Agreement shall be governed by and construed in accordance with the laws of Spain. Any disputes arising from this Agreement shall be resolved in the courts of Madrid, Spain.  
+
+---
+
+### **10. Entire Agreement**  
+This Agreement constitutes the entire agreement between Licensor and User regarding the Software and supersedes all prior agreements, understandings, or representations.  
+
+---
+
+### **11. Contact Information**  
+For any questions about this Agreement, please contact:  
+**Antonio Alberto Valverde Escribano**  
+Email: alberto.valverde.escribano@gmail.com  
+
+---
+
+#### **Acknowledgment**  
+By installing or using the Software, User acknowledges that they have read, understood, and agree to be bound by the terms of this Agreement.  
