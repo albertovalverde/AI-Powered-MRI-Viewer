@@ -1,7 +1,10 @@
 
 # AI-Powered MRI Viewer  
 
-AI-Powered MRI Viewer is an artificial intelligence-driven tool designed to provide real-time analysis of MRI scans, offering advanced visual and technical support for medical diagnostics.  
+AI-Powered MRI Viewer is an artificial intelligence-driven tool designed to provide **real-time analysis of MRI scans**, offering advanced visual and technical support for medical diagnostics. The tool integrates **Google Gemini 2.0 API** to leverage cutting-edge AI capabilities for enhanced imaging analysis. 
+
+![mri-viewer](https://github.com/albertovalverde/AI-Powered-MRI-Viewer/blob/main/mri-viewer.png)
+
 
 ## Key Features  
 
@@ -17,7 +20,7 @@ AI-Powered MRI Viewer is an artificial intelligence-driven tool designed to prov
 
 ## Objective  
 
-This project aims to revolutionize medical imaging analysis by integrating artificial intelligence to improve diagnostic accuracy and reduce analysis time, providing healthcare professionals with innovative and efficient tools.  
+This project aims to revolutionize medical imaging analysis by integrating artificial intelligence to improve diagnostic accuracy and reduce analysis time, providing healthcare professionals with innovative and efficient tools. The tool is **powered by Google Gemini 2.0 API**, ensuring high-level AI processing for medical imaging, and includes voice command functionality for seamless interaction.  
 
 ## Installation  
 
