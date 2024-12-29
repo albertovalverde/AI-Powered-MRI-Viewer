@@ -45,14 +45,15 @@ This project aims to revolutionize medical imaging analysis by integrating artif
    ```  
 
 ### Frontend
-1. Navigate to the frontend directory:  
+1. Clone the repository:  
    ```bash  
-   cd ../frontend  
+   git clone https://github.com/username/AI-Powered-MRI-Viewer.git  
+   cd AI-Powered-MRI-Viewer/frontend
    ```  
 
 2. Install dependencies:  
    ```bash  
-   yarn install  
+   yarn  
    ```  
 
 3. Run the development server:  
