@@ -57,7 +57,12 @@ This Agreement constitutes the entire agreement between Licensor and User regard
 
 ---
 
-### **11. Contact Information**  
+### **11. API Usage Disclaimer**  
+The Software integrates with the **Google Gemini 2.0 API**, which provides access to advanced artificial intelligence capabilities for the processing and analysis of MRI scans. By using the Software, User acknowledges that the usage of the Google Gemini 2.0 API is subject to Google's terms and conditions, and Licensor makes no guarantees regarding the availability, accuracy, or performance of the API.
+
+---
+
+### **12. Contact Information**  
 For any questions about this Agreement, please contact:  
 **Antonio Alberto Valverde Escribano**  
 Email: alberto.valverde.escribano@gmail.com  
