@@ -14,7 +14,7 @@ AI-Powered MRI Viewer is an artificial intelligence-driven tool designed to prov
 - **Universal compatibility:** Supports standard formats like DICOM.  
 - **User-friendly and multilingual interface:** Designed for global accessibility and ease of use.  
 
-### In Progress (TO DO)  
+### In Progress  
 - **Automatic detection of key areas:** Highlights anomalies and regions of interest with visual markers.  
 - **Dynamic zoom:** Automatically focuses on critical regions or allows manual adjustments for detailed analysis.  
 - **Interactive comparison:** Displays original and processed images side by side for easier interpretation.  
