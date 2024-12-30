@@ -6,7 +6,9 @@ AI-Powered MRI Viewer is an artificial intelligence-driven tool designed to prov
 
 
 
-![mri-viewer](https://github.com/albertovalverde/AI-Powered-MRI-Viewer/blob/main/mri-viewer.png)
+
+![mri-viewer](https://github.com/albertovalverde/AI-Powered-MRI-Viewer/blob/main/AI-Powered-MRI-Viewer.gif)
+
 
 
 ## Key Features  
